@@ -1,6 +1,6 @@
-torch
-hpbandster
-matplotlib
-torchvision
-numpy
 cython
+numpy
+matplotlib
+torch
+torchvision
+hpbandster
