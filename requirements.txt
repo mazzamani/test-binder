@@ -3,3 +3,4 @@ hpbandster
 matplotlib
 torchvision
 numpy
+cython
